@@ -1,3 +1,3 @@
 ## Python Lesson
 
-Author: Aljoscha Frede
+Author: Timothy Aljoscha Frede
